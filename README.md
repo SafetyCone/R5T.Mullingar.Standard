@@ -1,0 +1,2 @@
+# R5T.Mullingar.Standard
+The standard IHelloWorldMessageProvider implementation aggregation library for the Mullingar project.
